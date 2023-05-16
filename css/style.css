@@ -192,6 +192,11 @@
     color: var(--light);
 }
 
+/*** Hero ***/
+#imgText2 {
+    position: absolute;
+    top: 100px;
+}
 
 /*** Facts ***/
 .fact {
