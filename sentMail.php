@@ -12,8 +12,9 @@ if (isset($_POST['submit'])) {
     $subject2 = "Confirmation: Message was submitted successfully!"; // For customer confirmation
 
     // Email body I will receive
-    $message = "Client Name: " . $name . "\n"
-    . "Phone Number: " . $phone . "\n\n";
+    $message = "Customer Name: " . $name . "\n"
+    . "Phone Number: " . $phone . "\n"
+    . "Request: " . $request . "\n";
     // . "Client Message: " . "\n" . $_POST['message'];
 
     // Message for client confirmation
