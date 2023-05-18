@@ -97,9 +97,9 @@
     <div class="position-relative pb-5">
         <div id="imgText2" class="d-none d-md-flex ms-3 mt-1 pt-1 pe-5">
             <p class="fs-4 text-light">//HVAC Service//<br>  
-                Quality Service & Installs<br>       
-                Residential<br>
-                Commercial<br>
+            • Quality Service & Installs<br>       
+            • Residential<br>
+            • Commercial<br>
             </p>
         </div>
         <img class="img-fluid d-flex d-md-none" src="./img/sasLogo.png" alt="S.A.S. Logo">
@@ -354,7 +354,7 @@
                                     <textarea class="form-control border-0" name="request" placeholder="Special Request"></textarea>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-secondary w-100 py-3" type="submit">Book Now</button>
+                                    <button class="btn btn-secondary w-100 py-3" type="submit" name="submit" data-submit="...Sending">Book Now</button>
                                 </div>
                             </div>
                         </form>
