@@ -94,16 +94,16 @@
     <!-- Navbar End -->
 
     <!-- Hero Start -->
-    <div class="position-relative pb-5">
-        <div id="imgText2" class="d-none d-md-flex ms-3 mt-1 pt-1 pe-5">
+    <div class="position-relative pb-5 bg-dark">
+        <!-- <div id="imgText2" class="d-none d-md-flex ms-3 mt-1 pt-1 pe-5">
             <p class="fs-4 text-light">//HVAC Service//<br>  
             • Quality Service & Installs<br>       
             • Residential<br>
             • Commercial<br>
             </p>
-        </div>
-        <img class="img-fluid d-flex d-md-none" src="./img/sasLogo.png" alt="S.A.S. Logo">
-        <img class="img-fluid d-none d-md-flex" src="./img/sasLogoLarge.png" alt="S.A.S. Logo">
+        </div> -->
+        <img class="img-fluid d-flex d-md-none" src="./img/newSmSAS.png" alt="S.A.S. Logo">
+        <img class="img-fluid d-none d-md-flex mx-auto" src="./img/newLgSAS.png" alt="S.A.S. Logo">
         <a href="tel:575-497-9365" class="btn btn-primary py-4 px-lg-5 d-flex d-lg-none">Click to Call Now<i class="fa fa-arrow-right mx-3"></i><h3 class="text-light">575.497.9365</h3></a>
     </div>
     <!-- Hero End -->
